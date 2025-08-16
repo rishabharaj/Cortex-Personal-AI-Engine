@@ -127,3 +127,6 @@ Feel free to open an issue or reach out via linked social profiles in the site f
 ---
 "Cortex" is an experimental project – expect iteration. Contributions & feedback welcome.
 
+---
+Made with ❤️ by [Rishabharaj](https://github.com/rishabharaj)
+
